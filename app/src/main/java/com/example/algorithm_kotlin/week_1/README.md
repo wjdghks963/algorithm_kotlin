@@ -24,3 +24,7 @@ list 안 value들을 하나하나 대조해가며 찾는 방법
         1. `""`은 문자열(String)을 감싸는 기호
         2. `''`은 문자(character)을 감싸는 기호
       
+
+[day 5]
+(https://github.com/wjdghks963/algorithm_kotlin/blob/master/app/src/main/java/com/example/algorithm_kotlin/week_1/05_find_max_occurred_alphabet.kt)
+- day 3과 같은 로직을 이용해 제일 많은 문자를 
