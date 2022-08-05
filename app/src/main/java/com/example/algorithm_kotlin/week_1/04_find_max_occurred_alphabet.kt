@@ -5,7 +5,7 @@ import android.util.Log
 class FindMaxOccurredAlphabet {
     fun find_max_occurred_alphabet(string: String): String {
         // a~z 문자 list에 추가
-        val list = mutableListOf<String>()
+        val list = mutableListOf<Char>()
         for (i in 'a'..'z') {
             list.add(i.toString())
         }
