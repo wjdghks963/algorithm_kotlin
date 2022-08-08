@@ -1,4 +1,4 @@
-package com.example.algorithm_kotlin.week_1
+package com.example.algorithm_kotlin.by_week.week1
 
 class FindMaxNumber02 {
     val list = listOf(3,5,6,1,2,4)

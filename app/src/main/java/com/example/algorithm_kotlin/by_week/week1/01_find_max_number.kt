@@ -1,4 +1,4 @@
-package com.example.algorithm_kotlin.week_1
+package com.example.algorithm_kotlin.by_week.week1
 
 import android.app.Activity
 

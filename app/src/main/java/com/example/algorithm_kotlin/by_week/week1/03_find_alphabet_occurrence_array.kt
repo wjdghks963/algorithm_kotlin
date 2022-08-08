@@ -1,4 +1,4 @@
-package com.example.algorithm_kotlin.week_1
+package com.example.algorithm_kotlin.by_week.week1
 
 class FindAlphabetOccurrenceArray {
     fun find_alphabet_occurrence_array(string: String): MutableList<Int> {
