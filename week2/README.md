@@ -23,4 +23,7 @@
 
 - linked list에 존재하는 노드들의 합 구하는 함수 
 
+[day 6]()
 
+- 이진 탐색을 이용해 list 안에서 원하는 값을 찾는 함수 구현
+  - [이진 탐색](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
