@@ -30,6 +30,7 @@
 
 [day 7](https://github.com/wjdghks963/algorithm_kotlin/blob/master/week2/07_count_down.kt)
 - 재귀 함수를 이용한 카운트 다운
+
 [day 8](https://github.com/wjdghks963/algorithm_kotlin/blob/master/week2/08_factorial.kt)
 - 재귀 함수를 이용한 팩토리얼 구현
 
