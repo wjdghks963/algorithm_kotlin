@@ -3,3 +3,7 @@
 
 [day 3]()
 - while문을 통해 새로운 array를 만들어서 하나 씩 숫자를 대조한 뒤에 순서대로 새로 만들어진 array를 만든다.
+
+[day 4]()
+- node를 이용해 stack collection이 가지는 method 구현
+- method는 FILO 형태를 따른다.
